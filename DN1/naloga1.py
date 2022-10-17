@@ -1,0 +1,7 @@
+n = input("Vnesite poljubno celo število: ")
+print("Vnešeno število: " + str(n))
+print("Tip vnešenega števila: " + str(type(n)))
+print("----------------------------------------------")
+n = float(n)
+print(n)
+print(type(n))
